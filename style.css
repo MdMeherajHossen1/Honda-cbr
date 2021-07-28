@@ -4,6 +4,9 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+.honda-title{
+    color: #E76F51;
+}
 
 /* Navbar custom style   */
 
@@ -47,3 +50,10 @@ body{
 }
 
 /* features img style ends */
+.filled{
+    color: #E77C40;
+}
+
+.empty{
+    color: #E77C40;
+}
