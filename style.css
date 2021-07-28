@@ -35,3 +35,15 @@ body{
     padding: 10px 46px;
     
 }
+
+/* intro and header ends */
+
+
+/* features img style */
+
+.img-gray{
+    -webkit-filter: grayscale(100%); 
+    filter: grayscale(100%);
+}
+
+/* features img style ends */
