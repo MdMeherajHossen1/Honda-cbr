@@ -1,0 +1,19 @@
+/* Navbar custom style   */
+
+.navbar-light .navbar-brand{
+    color: white ;
+    font-weight: 800;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: white;
+    font-weight: 500;
+}
+
+/* navbar custom ends here */
+
+/* header and intro style */
+.honda-bg{
+    width: 100%;
+    background: #264653;
+}
