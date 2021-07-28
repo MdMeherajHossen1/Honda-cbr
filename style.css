@@ -1,7 +1,14 @@
+/* google font */
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
 /* Navbar custom style   */
 
 .navbar-light .navbar-brand{
-    color: white ;
+    color: goldenrod;
     font-weight: 800;
 }
 
@@ -10,10 +17,21 @@
     font-weight: 500;
 }
 
+
+
 /* navbar custom ends here */
 
 /* header and intro style */
 .honda-bg{
     width: 100%;
     background: #264653;
+}
+
+.honda-btn{
+    color: #fff;
+    font-weight: 500;
+    background: #E76F51;
+    border-radius: 5px;
+    padding: 10px 46px;
+    
 }
